@@ -57,26 +57,17 @@ p.callout {
 
 table.social {
 /* 	padding:15px; */
-	background-color: #fac7ac;
+	background-color: purple;
 	
 }
 .social .soc-btn {
-	padding: 3px 7px;
-	font-size:12px;
+	padding: 10px 5px;
+	font-size:14px;
 	margin-bottom:10px;
 	text-decoration:none;
 	color: #FFF;font-weight:bold;
 	display:block;
 	text-align:center;
-}
-a.fb { background-color: #3B5998!important; }
-a.tw { background-color: #1daced!important; }
-a.gp { background-color: #DB4A39!important; }
-a.ms { background-color: #000!important; }
-
-.sidebar .soc-btn { 
-	display:block;
-	width:100%;
 }
 
 /* ------------------------------------- 
@@ -223,7 +214,7 @@ RESPONSIVENESS
 .social .column {
 	width: 280px;
 	min-width: 279px;
-	float:left;
+	float:right;
 }
 
 /* clear element */
