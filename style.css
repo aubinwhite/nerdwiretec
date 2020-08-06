@@ -8,8 +8,9 @@ html {
 }
 
 body{
-    background-image:url('https://raw.githubusercontent.com/aubinwhite/nerdwirewiki/master/file%20storage/technologypattern.png');
-background-repeat:repeat; 
+    
+background: -webkit-linear-gradient(90deg, rgb(251, 119, 41), rgb(5, 181, 218));
+background: linear-gradient(90deg, rgb(251, 119, 41), rgb(5, 181, 218));
     min-height:100vh;
     text-align: center;
     font-family: 'Source Serif Pro', serif;
