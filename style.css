@@ -47,12 +47,12 @@ a{
 
 /* unvisited link */
 a:link {
-  color: black;
+  color: yellow;
 }
 
 /* visited link */
 a:visited {
-  color: yellow;
+  color: black;
 }
 
 /* mouse over link */
