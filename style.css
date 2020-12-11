@@ -45,6 +45,11 @@ a{
     box-shadow: 5px 5px 20px rgba(0,0, 0, 0.1);
 } 
 
+/* unvisited link */
+a:link {
+  color: black;
+}
+
 /* visited link */
 a:visited {
   color: yellow;
@@ -52,12 +57,12 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: orange;
+  color: red;
 }
 
 /* selected link */
 a:active {
-  color: red;
+  color: orange;
 } 
 
 h2{
