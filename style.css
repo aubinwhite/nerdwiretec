@@ -71,19 +71,3 @@ h2{
     font-weight: normal;
     letter-spacing: 3px;
 }
-
-.channels{
-    display: flex;
-    max-width: 400px;
-    margin: 0 auto;
-}
-.channels 
-       
-        a{
-        flex:1;
-        background-color:#fb7729 ;
-        padding:7px 10px;
-        margin-right:-0px;
-        border: 2px solid #333333;
-        border-radius:6px;
-    }
