@@ -46,26 +46,24 @@ a{
     box-shadow: 5px 5px 20px rgba(0,0, 0, 0.1);
 } 
 
-    .hii {
-        position: relative;
-        background-color: #f1ea00;
-background-color:red;
-background-image: url("");
-        color:#333333;
-        font-weight:600;
-        border-radius:6px;
+a:link {
+  color: black;
+}
 
+/* visited link */
+a:visited {
+  color: orange;
+}
 
-    }
-          a.before
-           { content:"";
-            position:absolute;
-            top: 2px;
-            left: 2px;
-            width:calc(100% - 4px);
-            border:2px solid white;
-            height:calc(100% - 4px);
-           }
+/* mouse over link */
+a:hover {
+  color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: red;
+} 
 
 h2{
     font-size:1.0rem;
