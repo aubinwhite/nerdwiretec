@@ -34,14 +34,14 @@ audio {
 
 a{
     max-width:400px;
-    height: 60px;
+    height: 50px;
     margin:0 auto 15px auto;
     border: 2px solid black;
     display:block;
     background-color:green;
     text-decoration:none;
     padding: 10px 20px;
-    font-size:1.5rem;
+    font-size:1.2rem;
     border-radius:6px;
     box-shadow: 5px 5px 20px rgba(0,0, 0, 0.1);
 } 
