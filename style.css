@@ -39,7 +39,7 @@ a{
     margin:0 auto 15px auto;
     border: 2px solid black;
     display:block;
-    background-color:green;
+    background-color:#0055ff;
     text-decoration:none;
     padding: 14px 20px;
     font-size:1.0rem;
@@ -64,7 +64,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: #ff8000;
+  color: #ff7800;
 } 
 
 h2{
