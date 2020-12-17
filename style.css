@@ -33,7 +33,7 @@ audio {
 }
 
 a{
-    color: black;
+    color: #583415;
     max-width:400px;
     height: 50px;
     margin:0 auto 15px auto;
@@ -49,12 +49,12 @@ a{
 
 /* unvisited link */
 a:link {
-  color: black;
+  color: #583415;
 }
 
 /* visited link */
 a:visited {
-  color: black;
+  color: #583415;
 }
 
 /* mouse over link */
