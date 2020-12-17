@@ -64,7 +64,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: yellow;
+  color: #ff00ff;
 } 
 
 h2{
