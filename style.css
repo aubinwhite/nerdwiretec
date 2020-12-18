@@ -10,7 +10,7 @@ html {
 
 body{
  background-image: url("https://raw.githubusercontent.com/aubinwhite/nerdwiretec/master/filestorage/background.gif"); 
-  background-color: #cccccc; 
+  background-color: #583415; 
   height: 600px; 
   background-position: center; 
   background-repeat: repeat;
@@ -29,7 +29,7 @@ audio {
   transform: scale(1.05);
   box-shadow: 5px 5px 20px rgba(0,0, 0, 0.1);
   background-color: #333333;
-  border: 2px solid #fb7729;
+  border: 2px solid #583415;
 }
 
 a{
